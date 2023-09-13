@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_google">Login using Google</string>
+    <string name="login_title">IO Weather - Sign In</string>
+    <string name="login_btn">Sign In</string>
+    <string name="login_input_username">Input your username...</string>
+    <string name="login_input_password">Input your password...</string>
+    <string name="your_location">Your Location is:</string>
+
+
+</resources>
